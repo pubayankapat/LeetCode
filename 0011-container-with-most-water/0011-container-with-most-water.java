@@ -7,10 +7,9 @@ class Solution {
             int h = Math.min(height[lp],height[rp]);
             int w = rp - lp;
             maxWater = Math.max(maxWater, h * w);
-            if(height[lp] < height[rp]) 
-                lp++;
-            else
-                rp--;
+            // controlling height with min water
+            int min = (height[lp] < height[rp]) ? lp++ : rp--;
+                
         }
         return maxWater;
     }
