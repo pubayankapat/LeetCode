@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pubayankapat/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pubayankapat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pubayankapat/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pubayankapat/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pubayankapat/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -83,8 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pubayankapat/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pubayankapat/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
