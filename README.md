@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pubayankapat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pubayankapat/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/pubayankapat/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/pubayankapat/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pubayankapat/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/pubayankapat/LeetCode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pubayankapat/LeetCode/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pubayankapat/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pubayankapat/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pubayankapat/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
