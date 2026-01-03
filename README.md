@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pubayankapat/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pubayankapat/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/pubayankapat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pubayankapat/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pubayankapat/LeetCode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/pubayankapat/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pubayankapat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/pubayankapat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pubayankapat/LeetCode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/pubayankapat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/pubayankapat/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
