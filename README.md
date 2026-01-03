@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pubayankapat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/pubayankapat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pubayankapat/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/pubayankapat/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pubayankapat/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pubayankapat/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pubayankapat/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/pubayankapat/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/pubayankapat/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pubayankapat/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pubayankapat/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/pubayankapat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/pubayankapat/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/pubayankapat/LeetCode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/pubayankapat/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
