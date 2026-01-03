@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pubayankapat/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/pubayankapat/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/pubayankapat/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pubayankapat/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/pubayankapat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/pubayankapat/LeetCode/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/pubayankapat/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
