@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pubayankapat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/pubayankapat/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/pubayankapat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/pubayankapat/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pubayankapat/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pubayankapat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pubayankapat/LeetCode/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pubayankapat/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pubayankapat/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/pubayankapat/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pubayankapat/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pubayankapat/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pubayankapat/LeetCode/tree/master/0268-missing-number) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pubayankapat/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pubayankapat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/pubayankapat/LeetCode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
