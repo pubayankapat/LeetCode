@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pubayankapat/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/pubayankapat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pubayankapat/LeetCode/tree/master/0268-missing-number) |
+| [3637-trionic-array-i](https://github.com/pubayankapat/LeetCode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
